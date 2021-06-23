@@ -6,10 +6,9 @@
  */
 namespace BasicApp\Url;
 
-use CodeIgniter\HTTP\URI;
 use Config\App;
 
-abstract class BaseUrl
+abstract class BaseUrlHelper
 {
 
     public static function getLocale()

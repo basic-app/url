@@ -6,6 +6,6 @@
  */
 namespace BasicApp\Url;
 
-class Url extends BaseUrl
+class UrlHelper extends BaseUrlHelper
 {
 }
