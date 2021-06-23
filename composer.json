@@ -1,0 +1,9 @@
+{
+    "name": "basic-app/url",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\Url\\" : ""
+        }
+    }
+}
